@@ -5,7 +5,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main()
+
+// Finding the determinant by the Gaussian method
+int main() 
 {
 	double** mat;
 	int n, i, j, e;
